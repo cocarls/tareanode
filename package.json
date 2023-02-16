@@ -1,0 +1,23 @@
+{
+  "name": "tareanode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cocarls/tareanode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cocarls/tareanode/issues"
+  },
+  "homepage": "https://github.com/cocarls/tareanode#readme",
+  "dependencies": {
+    "winston": "^3.8.2"
+  }
+}
